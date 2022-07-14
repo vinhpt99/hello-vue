@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "name": "anial",
+      "email": "vinhpt72@gmail.com",
+      "password": "25012005",
+      "id": 1
+    },
+    {
+      "name": "anialb",
+      "email": "vinhpt72@gmail.com",
+      "password": "25012005",
+      "id": 2
+    },
+    {
+      "email": "vinhpt72@gmail.com",
+      "password": "16031999",
+      "username": "Phạm Trọng Vinh",
+      "id": 3
+    },
+    {
+      "email": "test@cmcglobal",
+      "password": "test@cmcglobal",
+      "username": "test",
+      "id": 4
+    },
+    {
+      "email": "Vinhpt@cmcglobal.vn",
+      "password": "Vinhpt@cmcglobal.vn",
+      "username": "Phạm Trọng Vinh",
+      "id": 5
+    },
+    {
+      "email": "iuoui",
+      "password": "iuio",
+      "username": "uuyo",
+      "id": 6
+    },
+    {
+      "email": "wwf",
+      "password": "www",
+      "username": "tutww",
+      "id": 7
+    },
+    {
+      "email": "sdfs",
+      "password": "dgsg",
+      "username": "tủ",
+      "id": 8
+    }
+  ]
+}
