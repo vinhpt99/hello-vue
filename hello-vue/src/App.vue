@@ -1,13 +1,15 @@
 <template>
   <div id="app">
       <router-view/>
+      
   </div>
 </template>
-
+<Home/>
 <script>
 
 export default {
   name: 'App',
+  
 
 }
 </script>
@@ -26,7 +28,7 @@ export default {
      width:  450px;
      height: 150px;
 }
-.register input, .login input {
+.register input, .login input, .add input {
      width: 300px;
      height: 40px;
      padding-left: 20px;
@@ -37,7 +39,7 @@ export default {
      border: 1px solid skyblue;
 }
 
-.register button, .login button {
+.register button, .login button, .add button {
      width:  320px;
      height: 40px;
      border: 1px solid skyblue;
@@ -50,4 +52,8 @@ body {
   margin: 0;
   padding: 0;
 }
+table {
+  margin: 0 auto;
+}
+
 </style>
